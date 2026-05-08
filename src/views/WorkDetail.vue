@@ -147,7 +147,6 @@ const projectsData = {
       'Vue 3 學習專案 - 熟悉 Composition API'
     ],
     stack: ['Vue 3', 'HTML', 'CSS', 'JavaScript'],
-    link: 'https://vite-vue-blond.vercel.app/',
     screenshots: [
       '/WorkMenu_0.png',
       '/WorkMenu_1.png',
@@ -171,7 +170,7 @@ const projectsData = {
       'LINE APP - 登入驗證與訊息傳送'
     ],
     stack: ['HTML', 'CSS', 'JavaScript'],
-    link: 'https://lyc0220.github.io/Phone_web/',
+    link: 'https://lyc0220.github.io/Study_Phone_web/',
     screenshots: [
       '/WorkPhone_1.png',
       '/WorkPhone_2.png',
