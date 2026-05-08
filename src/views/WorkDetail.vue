@@ -81,8 +81,7 @@ const projectsData = {
       '每日任務 - 每日登入領取獎勵'
     ],
     stack: ['JavaScript', 'Discord.js', 'Node.js'],
-    link: 'https://github.com/LYC0220/DiscordRobot_pokemon',
-    github: 'https://github.com/LYC0220/DiscordRobot_pokemon',
+    link: 'https://github.com/LYC0220/DiscordRobot',
     screenshots: [
       '/WorkRobot.png',
       '/WorkRobot_1.png',
